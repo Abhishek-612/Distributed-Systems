@@ -1,0 +1,285 @@
+Testing christians-algorithm/christian_server and christians-algorithm/christian_client
+Iteration 1
+Client send time: 1721176062790 ms
+Server time: 0 ms
+Client receive time: 1721176062790 ms
+Round trip delay: 0 ms
+Clock offset: -1721176062790 ms
+Adjusted client time: 0 ms
+
+Iteration 2
+Client send time: 1721176063815 ms
+Server time: 0 ms
+Client receive time: 1721176063815 ms
+Round trip delay: 0 ms
+Clock offset: -1721176063815 ms
+Adjusted client time: 0 ms
+
+Iteration 3
+Client send time: 1721176064831 ms
+Server time: 0 ms
+Client receive time: 1721176064831 ms
+Round trip delay: 0 ms
+Clock offset: -1721176064831 ms
+Adjusted client time: 0 ms
+
+Iteration 4
+Client send time: 1721176065843 ms
+Server time: 0 ms
+Client receive time: 1721176065843 ms
+Round trip delay: 0 ms
+Clock offset: -1721176065843 ms
+Adjusted client time: 0 ms
+
+Iteration 5
+Client send time: 1721176066873 ms
+Server time: 0 ms
+Client receive time: 1721176066874 ms
+Round trip delay: 1 ms
+Clock offset: -1721176066873 ms
+Adjusted client time: 0 ms
+
+Iteration 6
+Client send time: 1721176067905 ms
+Server time: 0 ms
+Client receive time: 1721176067906 ms
+Round trip delay: 1 ms
+Clock offset: -1721176067905 ms
+Adjusted client time: 0 ms
+
+Iteration 7
+Client send time: 1721176069230 ms
+Server time: 0 ms
+Client receive time: 1721176069230 ms
+Round trip delay: 0 ms
+Clock offset: -1721176069230 ms
+Adjusted client time: 0 ms
+
+Iteration 8
+Client send time: 1721176070265 ms
+Server time: 0 ms
+Client receive time: 1721176070265 ms
+Round trip delay: 0 ms
+Clock offset: -1721176070265 ms
+Adjusted client time: 0 ms
+
+Iteration 9
+Client send time: 1721176071295 ms
+Server time: 0 ms
+Client receive time: 1721176071295 ms
+Round trip delay: 0 ms
+Clock offset: -1721176071295 ms
+Adjusted client time: 0 ms
+
+Iteration 10
+Client send time: 1721176072324 ms
+Server time: 0 ms
+Client receive time: 1721176072324 ms
+Round trip delay: 0 ms
+Clock offset: -1721176072324 ms
+Adjusted client time: 0 ms
+
+Testing berkeley-algorithm/berkeley_server and berkeley-algorithm/berkeley_client
+Iteration 1
+Node time: 1721176073525 ms
+Average offset: 0 ms
+Adjusted node time: 1721176073525 ms
+
+Iteration 2
+Node time: 1721176074552 ms
+Average offset: 0 ms
+Adjusted node time: 1721176074552 ms
+
+Iteration 3
+Node time: 1721176075585 ms
+Average offset: 0 ms
+Adjusted node time: 1721176075585 ms
+
+Iteration 4
+Node time: 1721176076610 ms
+Average offset: 0 ms
+Adjusted node time: 1721176076610 ms
+
+Iteration 5
+Node time: 1721176077629 ms
+Average offset: 0 ms
+Adjusted node time: 1721176077629 ms
+
+Iteration 6
+Node time: 1721176078650 ms
+Average offset: 0 ms
+Adjusted node time: 1721176078650 ms
+
+Iteration 7
+Node time: 1721176079672 ms
+Average offset: 0 ms
+Adjusted node time: 1721176079672 ms
+
+Iteration 8
+Node time: 1721176080693 ms
+Average offset: 0 ms
+Adjusted node time: 1721176080693 ms
+
+Iteration 9
+Node time: 1721176081716 ms
+Average offset: 0 ms
+Adjusted node time: 1721176081716 ms
+
+Iteration 10
+Node time: 1721176082733 ms
+Average offset: 0 ms
+Adjusted node time: 1721176082733 ms
+
+Testing network-time-protocol/ntp_server and network-time-protocol/ntp_client
+Iteration 1
+Client send time (T1): 1721176083928 ms
+Server receive time (T2): 4373296665 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176083928 ms
+Offset: -1718989435595 ms
+Round trip delay: 4373296665 ms
+Adjusted client time: 2186648333 ms
+
+Iteration 2
+Client send time (T1): 1721176084951 ms
+Server receive time (T2): 4311168537 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176084951 ms
+Offset: -1719020500682 ms
+Round trip delay: 4311168537 ms
+Adjusted client time: 2155584269 ms
+
+Iteration 3
+Client send time (T1): 1721176085988 ms
+Server receive time (T2): 1721176085988 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176085989 ms
+Offset: -860588042994 ms
+Round trip delay: 1721176085989 ms
+Adjusted client time: 860588042994 ms
+
+Iteration 4
+Client send time (T1): 1721176087027 ms
+Server receive time (T2): 4298438169 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176087027 ms
+Offset: -1719026867942 ms
+Round trip delay: 4298438169 ms
+Adjusted client time: 2149219085 ms
+
+Iteration 5
+Client send time (T1): 1721176088052 ms
+Server receive time (T2): 4298110489 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176088052 ms
+Offset: -1719027032807 ms
+Round trip delay: 4298110489 ms
+Adjusted client time: 2149055245 ms
+
+Iteration 6
+Client send time (T1): 1721176089085 ms
+Server receive time (T2): 4336514585 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176089085 ms
+Offset: -1719007831792 ms
+Round trip delay: 4336514585 ms
+Adjusted client time: 2168257293 ms
+
+Iteration 7
+Client send time (T1): 1721176090110 ms
+Server receive time (T2): 4310709785 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176090110 ms
+Offset: -1719020735217 ms
+Round trip delay: 4310709785 ms
+Adjusted client time: 2155354893 ms
+
+Iteration 8
+Client send time (T1): 1721176091137 ms
+Server receive time (T2): 4372674073 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176091137 ms
+Offset: -1718989754100 ms
+Round trip delay: 4372674073 ms
+Adjusted client time: 2186337037 ms
+
+Iteration 9
+Client send time (T1): 1721176092167 ms
+Server receive time (T2): 4335351321 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176092167 ms
+Offset: -1719008416506 ms
+Round trip delay: 4335351321 ms
+Adjusted client time: 2167675661 ms
+
+Iteration 10
+Client send time (T1): 1721176093199 ms
+Server receive time (T2): 4370265625 ms
+Server send time (T3): 0 ms
+Client receive time (T4): 1721176093199 ms
+Offset: -1718990960386 ms
+Round trip delay: 4370265625 ms
+Adjusted client time: 2185132813 ms
+
+Testing vector-clocks/vector_clocks_server and vector-clocks/vector_clocks_client
+Iteration 1
+Updated Vector Clock: 0 1 0 
+
+Iteration 2
+Updated Vector Clock: 0 1 0 
+
+Iteration 3
+Updated Vector Clock: 0 1 0 
+
+Iteration 4
+Updated Vector Clock: 0 1 0 
+
+Iteration 5
+Updated Vector Clock: 0 1 0 
+
+Iteration 6
+Updated Vector Clock: 0 1 0 
+
+Iteration 7
+Updated Vector Clock: 0 1 0 
+
+Iteration 8
+Updated Vector Clock: 0 1 0 
+
+Iteration 9
+Updated Vector Clock: 0 1 0 
+
+Iteration 10
+Updated Vector Clock: 0 1 0 
+
+Testing lamports-algorithm/lamports_server and lamports-algorithm/lamports_client
+Iteration 1
+Updated Lamport Clock: 1
+
+Iteration 2
+Updated Lamport Clock: 1
+
+Iteration 3
+Updated Lamport Clock: 1
+
+Iteration 4
+Updated Lamport Clock: 1
+
+Iteration 5
+Updated Lamport Clock: 1
+
+Iteration 6
+Updated Lamport Clock: 1
+
+Iteration 7
+Updated Lamport Clock: 1
+
+Iteration 8
+Updated Lamport Clock: 1
+
+Iteration 9
+Updated Lamport Clock: 1
+
+Iteration 10
+Updated Lamport Clock: 1
+
