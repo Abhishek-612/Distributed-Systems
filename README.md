@@ -4,6 +4,7 @@ This repository has implementations of Distributed Systems concepts and design p
 
 1. [Gossip Protocol](#gossip-protocol)
 2. [Distributed Hash Tables - Chord Protocol](#distributed-hash-tables-chord-protocol)
+3. [Clock Synchronization](#clock-synchronization)
 
 
 ## 1. Gossip Protocol
@@ -35,3 +36,34 @@ The Chord protocol is a structured distributed hash table (DHT) that provides ef
 
 
 
+
+
+## 3. Clock Synchronization
+
+This section focuses on different methods for clock synchronization in distributed systems. Clock synchronization allows all nodes in a distributed network to have the same logical timestamp in order to ensure sequential consistency of operations over the network. There five algorithms that can be run:
+
+1. Christian's Algorithm
+2. Berkeley Algorithm
+3. Network Time Protocol (NTP)
+4. Vector Clocks
+5. Lamport's Algorithm
+
+
+Steps to run:
+
+- Install boost library for C++
+    ```
+    For Linux:
+
+        sudo apt install libboost-all-dev
+
+    For MacOS:
+
+        brew install boost
+    ```
+
+- In the `Makefile`, add the `BOOST_INCLUDE_PATH` and `BOOST_LIB_PATH`.
+
+- Run shell script using `./run.sh`
+
+- Logs can be found in `performance_logs.txt`.
